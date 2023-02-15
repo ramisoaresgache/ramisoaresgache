@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/86982224/218914712-849d5d78-fda9-4d06-ab69-78636a2cf116.png)
+
 # 💫 About Me:
 Soy un graduado de Henry como Full Stack. Actualmente desarrollo aplicaciones web y móviles con varios lenguajes de programación, incluyendo JavaScript, HTML, CSS, Redux, React, Node, SQL y Sequelize, entre otros. Me considero una persona proactiva con excelentes habilidades para la mejora de la experiencia de usuario, diseño eficiente y escalabilidad. Además, tengo una buena habilidad de comunicación y organización. Estoy interesado en emprender para aportar mis conocimientos y experiencia a la industria y aprovechar al máximo el potencial de la tecnología.<br><br>🔭 Actualmente me encuentro en la búsqueda de mi primer empleo IT <br>👯 Me encuentro trabajando en proyectos con mis compañeros graduados de Henry <br>🌱 Me encuentro aprendiendo Typescript <br>💬 Podes preguntarme sobre el flujo del Front-end y su funcionamiento <br>⚡ Me gusta poder estar en casa para poder estar con mi gato 🐈 y mi perra 🐩y poder pasar tiempo con ellos 
 
@@ -16,3 +18,4 @@ Soy un graduado de Henry como Full Stack. Actualmente desarrollo aplicaciones we
 [![](https://visitcount.itsvg.in/api?id=ramisoaresgache&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
